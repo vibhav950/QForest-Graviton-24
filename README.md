@@ -4,7 +4,7 @@ QForest Graviton 2.0 2024 - Team Quantum Harvesters
 
 ## Setup and installations
 
-1. **Recommended:** create a Python virtual environment so that the install packages do not interfere with the base Python packages
+1. **Recommended:** create a Python virtual environment to avoid installing the required packages globally and prevent version conflicts
 
 ```powershell
 python -m venv your-env
